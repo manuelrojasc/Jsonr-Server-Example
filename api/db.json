@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "name": "maxmodificado",
+      "course": "fisica",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "marco",
+      "course": "mate2"
+    },
+    {
+      "id": "3",
+      "name": "manuel",
+      "course": "curso1"
+    },
+    {
+      "name": "prueba56565",
+      "course": "prueba",
+      "id": "BotCKTt"
+    },
+    {
+      "name": "prueba",
+      "course": "mod21",
+      "id": "ODghuTQ"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "milo"
+    }
+  ]
+}
